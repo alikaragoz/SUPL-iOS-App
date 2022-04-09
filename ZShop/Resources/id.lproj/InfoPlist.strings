@@ -1,0 +1,3 @@
+NSPhotoLibraryUsageDescription = "SUPL perlu mengakses Photo Library untuk membuat halaman produk";
+
+NSCameraUsageDescription = "SUPL perlu mengakses Photo Library untuk membuat halaman produk";

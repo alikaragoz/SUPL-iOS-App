@@ -1,0 +1,3 @@
+NSPhotoLibraryUsageDescription = "O SUPL precisa acessar sua galeria de fotos para criar sua página de produto";
+
+NSCameraUsageDescription = "O SUPL precisa acessar sua galeria de fotos para criar sua página de produto";

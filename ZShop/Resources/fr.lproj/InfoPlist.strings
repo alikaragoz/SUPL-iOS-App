@@ -1,0 +1,5 @@
+NSPhotoLibraryUsageDescription = "SUPL a besoin d'accéder à votre Bibliothèque Photo afin de créer votre page produit";
+
+NSCameraUsageDescription = "SUPL a besoin d'accéder à votre Appareil Photo afin de créer votre page produit";
+
+NSMicrophoneUsageDescription = "SUPL a besoin d'accéder à votre Microphone afin de créer votre page produit";

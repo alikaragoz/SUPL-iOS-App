@@ -1,0 +1,285 @@
+
+/* Title of the button in the navigation bar which dismisses the view. */
+"currency_selection.cancel_button.title" = "Отменить";
+
+/* Title of the view where we can set the currency. */
+"currency_selection.title" = "Выберите валюту";
+
+/* Placeholder when we ask the user for the name of the product he is creating. */
+"edit_name.textfield.placeholder" = "Название?";
+
+/* Title of the button to confirm if the user wants to quit the product. This will cancel the delete */
+"edit_product.confirm_delete.cancel" = "Отменить";
+
+/* Title of the button to confirm if the user wants to delete the product. This will delete the current product */
+"edit_product.confirm_delete.delete" = "Да, я уверен";
+
+/* Title of alert to confirm if the user wants to delete the product. */
+"edit_product.confirm_delete.title" = "Вы уверены, что хотите удалить этот продукт? Это действие необратимо.";
+
+/* Title of the button to cancel the exit. */
+"edit_product.description.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm the exit. */
+"edit_product.description.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the product description edition. */
+"edit_product.description.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения в описании.";
+
+/* Placeholder text on the description field on the product edition view. */
+"edit_product.description.placeholder" = "Добавить описание";
+
+/* Title of the button to save the edited description in the edit description page */
+"edit_product.description.save_button.title" = "Сохранить";
+
+/* Placeholder when we ask the user for the description of the product he is creating. */
+"edit_product.description.textfield.placeholder" = "Введите описание...";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will cancel the delete */
+"edit_product.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will lose his edits on the product */
+"edit_product.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the product edition. */
+"edit_product.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения.";
+
+/* Title of the button in the navigation bar which presents more options. */
+"edit_product.more_button.title" = "Подробнее";
+
+/* Title of the button to cancel the more product action sheet. */
+"edit_product.more_options.cancel" = "Отменить";
+
+/* Title of the button to delete a product. */
+"edit_product.more_options.delete_shop" = "Удалить";
+
+/* Title of the button to cancel the exit. */
+"edit_product.name.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm the exit. */
+"edit_product.name.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the product name edition. */
+"edit_product.name.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения в названии.";
+
+/* Placeholder text on the name field on the product edition view. */
+"edit_product.name.placeholder" = "Добавьте заголовок";
+
+/* Title of the button to save the edited name in the edit name page */
+"edit_product.name.save_button.title" = "Сохранить";
+
+/* Title of the page where we ask the user for the name of the product. */
+"edit_product.name.title" = "Как называется продукт?";
+
+/* Label in the online row to edit the online status. */
+"edit_product.online" = "Продукт онлайн";
+
+/* Title of the button to cancel the exit. */
+"edit_product.price.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm the exit. */
+"edit_product.price.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the product price edition. */
+"edit_product.price.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения цены.";
+
+/* Placeholder text on the price field on the product edition view. */
+"edit_product.price.placeholder" = "Введите цену";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.price.save_button.title" = "Сохранить";
+
+/* Title of the page where we ask the user for the price of the product. */
+"edit_product.price.title" = "Какова цена продукта?";
+
+/* Title of the button to save the changes in the edit page */
+"edit_product.save_button.title" = "Сохранить";
+
+/* Title of the button to cancel the exit. */
+"edit_product.stock.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm the exit. */
+"edit_product.stock.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the product stock edition. */
+"edit_product.stock.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения на складе.";
+
+/* Label in the stock field to edit the stock amount. */
+"edit_product.stock.label" = "Склад:";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.stock.save_button.title" = "Сохранить";
+
+/* Title of the page where we ask the user to edit the stock. */
+"edit_product.stock.title" = "📦 Осталось на складе";
+
+/* Title next to the switch to toggle the unlimited state of the stock */
+"edit_product.stock.unlimited_switch_label" = "Неограниченное количество";
+
+/* Title of the view where we can review and edit a product. */
+"edit_product.title" = "Редактировать продукт";
+
+/* Title of the action to cancel. */
+"file_picker.action_sheet.picker_source.cancel.title" = "Отменить";
+
+/* Title of the action to show the Document Picker. */
+"file_picker.action_sheet.picker_source.document_picker.title" = "Документы";
+
+/* Title of the action to show the Photo Library. */
+"file_picker.action_sheet.picker_source.image_picker.title" = "Галерея";
+
+/* Title of the action to show the camera and take a picture. */
+"file_picker.action_sheet.picker_source.take_picture.title" = "Сделать фото";
+
+/* Title of the action to show the camera and take a video. */
+"file_picker.action_sheet.picker_source.take_video.title" = "Записать видео";
+
+/* Title of the button which start the product creation flow. */
+"home.empty.add_product_button.title" = "Добавить товар";
+
+/* Title of the label which says we don't have any products yet. */
+"home.empty.title" = "У вас пока нет товаров";
+
+/* Title of the home */
+"home.title" = "Ваш магазин";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_connect.paypal_button.title" = "Связать с {{paypal}}";
+
+/* Title of the page where the user can connect to PayPal. */
+"paypal_connect.title" = "💵 Подключите свою учетную запись PayPal, чтобы начать получать платежи";
+
+/* Title of the badge indicating status of Paypal */
+"paypal_status.title" = "Подключите свою учетную запись PayPal, чтобы начать получать платежи";
+
+/* Title of the button which dismiss the webview. */
+"paypal_webview.done_button.title" = "Готово";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_webview.loading_title" = "👩🏼‍🚀 Подождите, мы подключаемся к вашей учетной записи PayPal...";
+
+/* Subtitle of the button under the product card to edit a product */
+"product_card_menu.edit_button.title" = "Редактировать";
+
+/* Subtitle of the button under the product card to preview a product */
+"product_card_menu.preview_button.title" = "Предварительный просмотр";
+
+/* Subtitle of the button under the product card to share a product */
+"product_card_menu.share_button.title" = "Поделиться";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will cancel the delete */
+"product_creation.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will delete the current product */
+"product_creation.exit_confirm.delete_title" = "Удалить продукт";
+
+/* Title of alert to confirm if the user wants to quit the product creation. */
+"product_creation.exit_confirm.title" = "Вы уверены, что хотите выйти? Это приведет к удалению продукта.";
+
+/* Title of the page where we ask the user for the name of the product he is creating. */
+"product_creation.name.title" = "👌🏼 Как называется ваш продукт?";
+
+/* Title of the button which opens paypal connect view. */
+"product_creation.paypal.paypal_button.title" = "Связать с {{paypal}}";
+
+/* Title of the button to skip paypal login at the end of the product creation. */
+"product_creation.paypal.skip_button.title" = "Настроить позже";
+
+/* Title of the page where the user can connect to PayPal. */
+"product_creation.paypal.title" = "💵 Подключите свою учетную запись PayPal, чтобы начать получать платежи";
+
+/* Title of the page where the user can upload his product video and pictures. */
+"product_creation.picture.title" = "📸 Загрузите видео и фото вашего товара";
+
+/* Title of the button which opens the asset picker. */
+"product_creation.picture.upload_button.title" = "Добавить социальную сеть";
+
+/* Title of the page where we ask the user for the price of the product he is creating. */
+"product_creation.price.title" = "💰 Какая цена вашего продукта?";
+
+/* Description on the share page after the creation explaining what to do with the link. */
+"product_creation.share.copy_description.title" = "Скопируйте эту ссылку и поместите ее в свой профиль Instagram";
+
+/* Title of the button which copies the link of the shop */
+"product_creation.share.copy_link_button.title" = "Копировать ссылку";
+
+/* Title of the button to skip the sharing page at the end of the product creation. */
+"product_creation.share.skip_button.title" = "пропустить";
+
+/* Title of the page where the user can share his product page. */
+"product_creation.share.title" = "🎉 Ваш магазин запущен!";
+
+/* Title of the button cancel if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.delete_title" = "Да, удалить";
+
+/* Title of alert to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.title" = "Вы уверены, что хотите удалить эту социальную сеть?";
+
+/* Title of the view where we can review and edit a product. */
+"review_product.title" = "🔍 Просматривайте свой продукт";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.domain.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.domain.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the domaine name edition. */
+"shop_edition.domain.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения в доменном имени.";
+
+/* Title of the button to save the edited domain name in the edit domaine page */
+"shop_edition.domain.save_button.title" = "Сохранить";
+
+/* Title of the page where we ask the user to edit the domain name. */
+"shop_edition.domain.title" = "Установите доменное имя для вашего магазина";
+
+/* Title of the domain section */
+"shop_edition.domain_section.title" = "Доменное имя";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will cancel the dismiss */
+"shop_edition.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will lose his edits */
+"shop_edition.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the shop edition. */
+"shop_edition.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения.";
+
+/* Title of the logo section */
+"shop_edition.logo_section.title" = "Логотип";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.name.exit_confirm.cancel_title" = "Отменить";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.name.exit_confirm.lose_edits_title" = "Потерять изменения";
+
+/* Title of alert to confirm if the user wants to quit the shop name edition. */
+"shop_edition.name.exit_confirm.title" = "Вы уверены, что хотите выйти? Вы потеряете все свои изменения в названии.";
+
+/* Placeholdet text displayed when no shop name is set yet. */
+"shop_edition.name.placeholder" = "Укажите название вашего магазина";
+
+/* Title of the button to save the edited shop in the edit shop page */
+"shop_edition.name.save_button.title" = "Сохранить";
+
+/* Title of the page where we ask the user for the name of his shop. */
+"shop_edition.name.title" = "Как называется ваш магазин?";
+
+/* Title of the name section */
+"shop_edition.name_section.title" = "Название";
+
+/* Placeholdet text displayed when the paypal account is not connected. */
+"shop_edition.paypal.placeholder" = "Подключите учетную запись Paypal";
+
+/* Title of the paypal section */
+"shop_edition.paypal_section.title" = "Учетная запись PayPal";
+
+/* Title of the button to save the changes in the shop edition page */
+"shop_edition.save_button.title" = "Сохранить";
+
+/* Title of the view where the user can edit the properties of his shop */
+"shop_edition.title" = "Редактируйте свой магазин";

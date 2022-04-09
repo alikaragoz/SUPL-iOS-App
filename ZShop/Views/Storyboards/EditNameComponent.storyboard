@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="6CI-Fb-uf6">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Edit Name Component-->
+        <scene sceneID="nBl-8Q-zDs">
+            <objects>
+                <viewController storyboardIdentifier="EditNameComponent" id="6CI-Fb-uf6" customClass="EditNameComponent" customModule="ZShop_Framework" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="O7y-Di-m7E">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AzY-JC-Rv7">
+                                <rect key="frame" x="0.0" y="44" width="375" height="768"/>
+                                <subviews>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="cBc-Mx-vew">
+                                        <rect key="frame" x="20" y="309" width="335" height="150"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="150" id="kwK-Gs-nIE"/>
+                                        </constraints>
+                                        <nil key="textColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="cBc-Mx-vew" firstAttribute="leading" secondItem="AzY-JC-Rv7" secondAttribute="leading" constant="20" id="Fq9-2K-X9M"/>
+                                    <constraint firstItem="cBc-Mx-vew" firstAttribute="centerY" secondItem="AzY-JC-Rv7" secondAttribute="centerY" id="YRx-OG-NEM"/>
+                                    <constraint firstAttribute="trailing" secondItem="cBc-Mx-vew" secondAttribute="trailing" constant="20" id="s3p-Ym-2L4"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="AzY-JC-Rv7" firstAttribute="top" secondItem="HcD-D2-Vrp" secondAttribute="top" id="WYJ-BR-VY9"/>
+                            <constraint firstItem="AzY-JC-Rv7" firstAttribute="trailing" secondItem="O7y-Di-m7E" secondAttribute="trailing" id="by6-Z1-Qwv"/>
+                            <constraint firstAttribute="bottom" secondItem="AzY-JC-Rv7" secondAttribute="bottom" id="u70-gS-1Qi"/>
+                            <constraint firstItem="AzY-JC-Rv7" firstAttribute="leading" secondItem="O7y-Di-m7E" secondAttribute="leading" id="v8K-Il-ySb"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="HcD-D2-Vrp"/>
+                    </view>
+                    <connections>
+                        <outlet property="containerView" destination="AzY-JC-Rv7" id="ljS-6B-FCn"/>
+                        <outlet property="containerViewBottomConstraint" destination="u70-gS-1Qi" id="VBi-Oe-rfS"/>
+                        <outlet property="nameTextField" destination="cBc-Mx-vew" id="9lw-5a-Iuf"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7hU-7s-Q8d" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="37.600000000000001" y="26.53673163418291"/>
+        </scene>
+    </scenes>
+</document>

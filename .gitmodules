@@ -1,0 +1,18 @@
+[submodule "Frameworks/RxSwift"]
+	path = Frameworks/RxSwift
+	url = https://github.com/ReactiveX/RxSwift.git
+[submodule "Frameworks/Alamofire"]
+	path = Frameworks/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "Frameworks/OHHTTPStubs"]
+	path = Frameworks/OHHTTPStubs
+	url = https://github.com/AliSoftware/OHHTTPStubs.git
+[submodule "Frameworks/Kingfisher"]
+	path = Frameworks/Kingfisher
+	url = https://github.com/onevcat/Kingfisher.git
+[submodule "Frameworks/Amplitude"]
+	path = Frameworks/Amplitude
+	url = https://github.com/amplitude/Amplitude-iOS.git
+[submodule "Frameworks/TUSKit"]
+	path = Frameworks/TUSKit
+	url = https://github.com/tus/TUSKit.git

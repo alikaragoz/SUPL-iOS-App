@@ -1,0 +1,285 @@
+
+/* Title of the button in the navigation bar which dismisses the view. */
+"currency_selection.cancel_button.title" = "Batalkan";
+
+/* Title of the view where we can set the currency. */
+"currency_selection.title" = "Pilih mata uang Anda";
+
+/* Placeholder when we ask the user for the name of the product he is creating. */
+"edit_name.textfield.placeholder" = "Nama?";
+
+/* Title of the button to confirm if the user wants to quit the product. This will cancel the delete */
+"edit_product.confirm_delete.cancel" = "Batalkan";
+
+/* Title of the button to confirm if the user wants to delete the product. This will delete the current product */
+"edit_product.confirm_delete.delete" = "Ya, saya yakin";
+
+/* Title of alert to confirm if the user wants to delete the product. */
+"edit_product.confirm_delete.title" = "Apakah Anda yakin ingin menghapus produk ini? Tindakan ini tidak dapat dibatalkan.";
+
+/* Title of the button to cancel the exit. */
+"edit_product.description.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm the exit. */
+"edit_product.description.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the product description edition. */
+"edit_product.description.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan suntingan Anda pada bagian deskripsi.";
+
+/* Placeholder text on the description field on the product edition view. */
+"edit_product.description.placeholder" = "Tambahkan deskripsi";
+
+/* Title of the button to save the edited description in the edit description page */
+"edit_product.description.save_button.title" = "Simpan";
+
+/* Placeholder when we ask the user for the description of the product he is creating. */
+"edit_product.description.textfield.placeholder" = "Masukkan deskripsi Anda...";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will cancel the delete */
+"edit_product.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will lose his edits on the product */
+"edit_product.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the product edition. */
+"edit_product.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan semua suntingan Anda.";
+
+/* Title of the button in the navigation bar which presents more options. */
+"edit_product.more_button.title" = "Lebih banyak";
+
+/* Title of the button to cancel the more product action sheet. */
+"edit_product.more_options.cancel" = "Batalkan";
+
+/* Title of the button to delete a product. */
+"edit_product.more_options.delete_shop" = "Hapus";
+
+/* Title of the button to cancel the exit. */
+"edit_product.name.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm the exit. */
+"edit_product.name.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the product name edition. */
+"edit_product.name.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan semua suntingan Anda pada bagian nama.";
+
+/* Placeholder text on the name field on the product edition view. */
+"edit_product.name.placeholder" = "Tambahkan judul";
+
+/* Title of the button to save the edited name in the edit name page */
+"edit_product.name.save_button.title" = "Simpan";
+
+/* Title of the page where we ask the user for the name of the product. */
+"edit_product.name.title" = "Apa nama produk Anda?";
+
+/* Label in the online row to edit the online status. */
+"edit_product.online" = "Produk Online";
+
+/* Title of the button to cancel the exit. */
+"edit_product.price.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm the exit. */
+"edit_product.price.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the product price edition. */
+"edit_product.price.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan suntingan Anda pada bagian harga.";
+
+/* Placeholder text on the price field on the product edition view. */
+"edit_product.price.placeholder" = "Masukkan harga";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.price.save_button.title" = "Simpan";
+
+/* Title of the page where we ask the user for the price of the product. */
+"edit_product.price.title" = "Berapa harga produk?";
+
+/* Title of the button to save the changes in the edit page */
+"edit_product.save_button.title" = "Simpan";
+
+/* Title of the button to cancel the exit. */
+"edit_product.stock.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm the exit. */
+"edit_product.stock.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the product stock edition. */
+"edit_product.stock.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan suntingan Anda pada bagian stok.";
+
+/* Label in the stock field to edit the stock amount. */
+"edit_product.stock.label" = "Stok:";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.stock.save_button.title" = "Simpan";
+
+/* Title of the page where we ask the user to edit the stock. */
+"edit_product.stock.title" = "📦 Stok Tersedia";
+
+/* Title next to the switch to toggle the unlimited state of the stock */
+"edit_product.stock.unlimited_switch_label" = "Tak terbatas";
+
+/* Title of the view where we can review and edit a product. */
+"edit_product.title" = "Edit produk";
+
+/* Title of the action to cancel. */
+"file_picker.action_sheet.picker_source.cancel.title" = "Batalkan";
+
+/* Title of the action to show the Document Picker. */
+"file_picker.action_sheet.picker_source.document_picker.title" = "Dokumen";
+
+/* Title of the action to show the Photo Library. */
+"file_picker.action_sheet.picker_source.image_picker.title" = "Photo Library";
+
+/* Title of the action to show the camera and take a picture. */
+"file_picker.action_sheet.picker_source.take_picture.title" = "Ambil foto";
+
+/* Title of the action to show the camera and take a video. */
+"file_picker.action_sheet.picker_source.take_video.title" = "Ambil video";
+
+/* Title of the button which start the product creation flow. */
+"home.empty.add_product_button.title" = "Tambahkan produk";
+
+/* Title of the label which says we don't have any products yet. */
+"home.empty.title" = "Anda belum memiliki produk apa pun";
+
+/* Title of the home */
+"home.title" = "Toko Anda";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_connect.paypal_button.title" = "Hubungkan dengan {{paypal}}";
+
+/* Title of the page where the user can connect to PayPal. */
+"paypal_connect.title" = "💵 Hubungkan akun PayPal Anda untuk mulai menerima pembayaran";
+
+/* Title of the badge indicating status of Paypal */
+"paypal_status.title" = "Hubungkan akun PayPal Anda untuk mulai menerima pembayaran";
+
+/* Title of the button which dismiss the webview. */
+"paypal_webview.done_button.title" = "Selesai";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_webview.loading_title" = "👩🏼‍🚀 Tunggu, kami menghubungkan ke akun PayPal Anda...";
+
+/* Subtitle of the button under the product card to edit a product */
+"product_card_menu.edit_button.title" = "Edit";
+
+/* Subtitle of the button under the product card to preview a product */
+"product_card_menu.preview_button.title" = "Pratinjau";
+
+/* Subtitle of the button under the product card to share a product */
+"product_card_menu.share_button.title" = "Bagikan";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will cancel the delete */
+"product_creation.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will delete the current product */
+"product_creation.exit_confirm.delete_title" = "Hapus Produk";
+
+/* Title of alert to confirm if the user wants to quit the product creation. */
+"product_creation.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Ini akan menghapus produk Anda.";
+
+/* Title of the page where we ask the user for the name of the product he is creating. */
+"product_creation.name.title" = "👌🏼 Apa nama produk Anda?";
+
+/* Title of the button which opens paypal connect view. */
+"product_creation.paypal.paypal_button.title" = "Hubungkan dengan {{paypal}}";
+
+/* Title of the button to skip paypal login at the end of the product creation. */
+"product_creation.paypal.skip_button.title" = "Atur nanti";
+
+/* Title of the page where the user can connect to PayPal. */
+"product_creation.paypal.title" = "💵 Hubungkan akun PayPal Anda untuk mulai menerima pembayaran";
+
+/* Title of the page where the user can upload his product video and pictures. */
+"product_creation.picture.title" = "📸 Unggah video dan foto produk Anda";
+
+/* Title of the button which opens the asset picker. */
+"product_creation.picture.upload_button.title" = "Tambahkan beberapa media";
+
+/* Title of the page where we ask the user for the price of the product he is creating. */
+"product_creation.price.title" = "💰 Berapa harga produk Anda?";
+
+/* Description on the share page after the creation explaining what to do with the link. */
+"product_creation.share.copy_description.title" = "Salin tautan ini dan taruh di bio Instagram Anda";
+
+/* Title of the button which copies the link of the shop */
+"product_creation.share.copy_link_button.title" = "Salin tautan";
+
+/* Title of the button to skip the sharing page at the end of the product creation. */
+"product_creation.share.skip_button.title" = "lewati";
+
+/* Title of the page where the user can share his product page. */
+"product_creation.share.title" = "🎉 Toko Anda sedang online!";
+
+/* Title of the button cancel if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.delete_title" = "Ya Hapus";
+
+/* Title of alert to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.title" = "Apakah Anda yakin ingin menghapus media ini?";
+
+/* Title of the view where we can review and edit a product. */
+"review_product.title" = "🔍 Ulas produk Anda";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.domain.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.domain.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the domaine name edition. */
+"shop_edition.domain.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan semua suntingan Anda pada nama domain.";
+
+/* Title of the button to save the edited domain name in the edit domaine page */
+"shop_edition.domain.save_button.title" = "Simpan";
+
+/* Title of the page where we ask the user to edit the domain name. */
+"shop_edition.domain.title" = "Tetapkan nama domain untuk toko Anda";
+
+/* Title of the domain section */
+"shop_edition.domain_section.title" = "Nama domain";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will cancel the dismiss */
+"shop_edition.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will lose his edits */
+"shop_edition.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the shop edition. */
+"shop_edition.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan semua suntingan Anda.";
+
+/* Title of the logo section */
+"shop_edition.logo_section.title" = "Logo";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.name.exit_confirm.cancel_title" = "Batalkan";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.name.exit_confirm.lose_edits_title" = "Hilangkan Suntingan";
+
+/* Title of alert to confirm if the user wants to quit the shop name edition. */
+"shop_edition.name.exit_confirm.title" = "Apakah Anda yakin ingin keluar? Anda akan kehilangan semua suntingan Anda pada bagian nama.";
+
+/* Placeholdet text displayed when no shop name is set yet. */
+"shop_edition.name.placeholder" = "Atur nama toko Anda";
+
+/* Title of the button to save the edited shop in the edit shop page */
+"shop_edition.name.save_button.title" = "Simpan";
+
+/* Title of the page where we ask the user for the name of his shop. */
+"shop_edition.name.title" = "Apa nama toko Anda?";
+
+/* Title of the name section */
+"shop_edition.name_section.title" = "Nama";
+
+/* Placeholdet text displayed when the paypal account is not connected. */
+"shop_edition.paypal.placeholder" = "Hubungkan akun Paypal Anda";
+
+/* Title of the paypal section */
+"shop_edition.paypal_section.title" = "Akun PayPal";
+
+/* Title of the button to save the changes in the shop edition page */
+"shop_edition.save_button.title" = "Simpan";
+
+/* Title of the view where the user can edit the properties of his shop */
+"shop_edition.title" = "Edit toko Anda";

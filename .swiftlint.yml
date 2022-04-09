@@ -1,0 +1,33 @@
+disabled_rules:
+  - function_body_length
+  - identifier_name
+  - large_tuple
+  - nesting
+  - trailing_whitespace
+
+line_length: 110
+
+opt_in_rules:
+  - closure_spacing
+  - empty_count
+  - explicit_init
+  - first_where
+  - nimble_operator
+  - prohibited_super_call
+  - redundant_nil_coalescing
+
+excluded:
+  - Frameworks/*
+  - ZShop.playground
+
+custom_rules:
+  malformed_nslocalizedstring:
+    name: "Malformed NSLocalizedString function"
+    message: "NSLocalizedString needs to contain at least the key, default value and comment."
+    regex: 'NSLocalizedString\(\s?"((?:[^"\\]|\\.)*)"\s?,\s?comment:\s?"((?:[^"\\]|\\.)*)".*\)'
+    severity: error
+  empty_nslocalizedstring_comment:
+    name: "NSLocalizedString function comment parameter is empty"
+    message: "NSLocalizedString needs to have a descriptive comment"
+    regex: 'NSLocalizedString\(.*(comment:\s?"").*\)'
+    severity: error

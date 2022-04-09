@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Product Save Component-->
+        <scene sceneID="0Ok-U8-mOi">
+            <objects>
+                <viewController storyboardIdentifier="ProductSaveComponent" id="V4W-dK-Gdi" customClass="ProductSaveComponent" customModule="ZShop_Framework" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="quj-cY-Hyb">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lBh-Ye-RRH" customClass="LargeProgressCircle" customModule="ZShop_Framework" customModuleProvider="target">
+                                <rect key="frame" x="107" y="348" width="200" height="200"/>
+                                <color key="backgroundColor" red="0.48414276810000001" green="0.49694129879999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="9D6-Md-dqZ"/>
+                                    <constraint firstAttribute="height" constant="200" id="iXI-Q9-Anf"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="lBh-Ye-RRH" firstAttribute="centerY" secondItem="quj-cY-Hyb" secondAttribute="centerY" id="Rse-dE-jru"/>
+                            <constraint firstItem="lBh-Ye-RRH" firstAttribute="centerX" secondItem="quj-cY-Hyb" secondAttribute="centerX" id="u8U-ib-zMO"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="i7O-g5-7Np"/>
+                    </view>
+                    <connections>
+                        <outlet property="progress" destination="lBh-Ye-RRH" id="cI7-2s-oPB"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vfi-J8-PXz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1041" y="-173"/>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,285 @@
+
+/* Title of the button in the navigation bar which dismisses the view. */
+"currency_selection.cancel_button.title" = "Abbrechen";
+
+/* Title of the view where we can set the currency. */
+"currency_selection.title" = "Wählen Sie Ihre Währung";
+
+/* Placeholder when we ask the user for the name of the product he is creating. */
+"edit_name.textfield.placeholder" = "Name?";
+
+/* Title of the button to confirm if the user wants to quit the product. This will cancel the delete */
+"edit_product.confirm_delete.cancel" = "Abbrechen";
+
+/* Title of the button to confirm if the user wants to delete the product. This will delete the current product */
+"edit_product.confirm_delete.delete" = "Ja, ich bin mir sicher.";
+
+/* Title of alert to confirm if the user wants to delete the product. */
+"edit_product.confirm_delete.title" = "Sind Sie sicher, dass Sie dieses Produkt löschen möchten? Diese Aktion ist nicht umkehrbar.";
+
+/* Title of the button to cancel the exit. */
+"edit_product.description.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm the exit. */
+"edit_product.description.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the product description edition. */
+"edit_product.description.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen an der Beschreibung.";
+
+/* Placeholder text on the description field on the product edition view. */
+"edit_product.description.placeholder" = "Eine Beschreibung hinzufügen";
+
+/* Title of the button to save the edited description in the edit description page */
+"edit_product.description.save_button.title" = "Speichern";
+
+/* Placeholder when we ask the user for the description of the product he is creating. */
+"edit_product.description.textfield.placeholder" = "Geben Sie Ihre Beschreibung ein.....";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will cancel the delete */
+"edit_product.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will lose his edits on the product */
+"edit_product.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the product edition. */
+"edit_product.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen.";
+
+/* Title of the button in the navigation bar which presents more options. */
+"edit_product.more_button.title" = "Mehr";
+
+/* Title of the button to cancel the more product action sheet. */
+"edit_product.more_options.cancel" = "Abbrechen";
+
+/* Title of the button to delete a product. */
+"edit_product.more_options.delete_shop" = "Löschen";
+
+/* Title of the button to cancel the exit. */
+"edit_product.name.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm the exit. */
+"edit_product.name.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the product name edition. */
+"edit_product.name.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen am Namen.";
+
+/* Placeholder text on the name field on the product edition view. */
+"edit_product.name.placeholder" = "Den Titel hinzufügen";
+
+/* Title of the button to save the edited name in the edit name page */
+"edit_product.name.save_button.title" = "Speichern";
+
+/* Title of the page where we ask the user for the name of the product. */
+"edit_product.name.title" = "Wie lautet der Name des Produkts?";
+
+/* Label in the online row to edit the online status. */
+"edit_product.online" = "Produkt online";
+
+/* Title of the button to cancel the exit. */
+"edit_product.price.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm the exit. */
+"edit_product.price.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the product price edition. */
+"edit_product.price.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen über den Preis.";
+
+/* Placeholder text on the price field on the product edition view. */
+"edit_product.price.placeholder" = "Geben Sie den Preis ein";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.price.save_button.title" = "Speichern";
+
+/* Title of the page where we ask the user for the price of the product. */
+"edit_product.price.title" = "Was ist der Preis des Produkts?";
+
+/* Title of the button to save the changes in the edit page */
+"edit_product.save_button.title" = "Speichern";
+
+/* Title of the button to cancel the exit. */
+"edit_product.stock.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm the exit. */
+"edit_product.stock.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the product stock edition. */
+"edit_product.stock.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen am Lagerbestand.";
+
+/* Label in the stock field to edit the stock amount. */
+"edit_product.stock.label" = "Lagerbestand:";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.stock.save_button.title" = "Speichern";
+
+/* Title of the page where we ask the user to edit the stock. */
+"edit_product.stock.title" = "📦 auf Lager";
+
+/* Title next to the switch to toggle the unlimited state of the stock */
+"edit_product.stock.unlimited_switch_label" = "Unbegrenzt";
+
+/* Title of the view where we can review and edit a product. */
+"edit_product.title" = "Produkt bearbeiten";
+
+/* Title of the action to cancel. */
+"file_picker.action_sheet.picker_source.cancel.title" = "Abbrechen";
+
+/* Title of the action to show the Document Picker. */
+"file_picker.action_sheet.picker_source.document_picker.title" = "Dokumente";
+
+/* Title of the action to show the Photo Library. */
+"file_picker.action_sheet.picker_source.image_picker.title" = "Fotobibliothek";
+
+/* Title of the action to show the camera and take a picture. */
+"file_picker.action_sheet.picker_source.take_picture.title" = "Machen Sie ein Foto";
+
+/* Title of the action to show the camera and take a video. */
+"file_picker.action_sheet.picker_source.take_video.title" = "Ein Video aufnehmen";
+
+/* Title of the button which start the product creation flow. */
+"home.empty.add_product_button.title" = "Ein Produkt hinzufügen";
+
+/* Title of the label which says we don't have any products yet. */
+"home.empty.title" = "Sie haben noch keine Produkte";
+
+/* Title of the home */
+"home.title" = "Ihr Shop";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_connect.paypal_button.title" = "Mit {{paypal}} verbinden";
+
+/* Title of the page where the user can connect to PayPal. */
+"paypal_connect.title" = "💵 Verbinden Sie Ihr PayPal-Konto, um Zahlungen zu erhalten.";
+
+/* Title of the badge indicating status of Paypal */
+"paypal_status.title" = "Verbinden Sie Ihr PayPal-Konto, um Zahlungen zu erhalten.";
+
+/* Title of the button which dismiss the webview. */
+"paypal_webview.done_button.title" = "Erledigt";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_webview.loading_title" = "👩🏼 Warten Sie bitte, wir verbinden uns mit Ihrem PayPal-Konto...";
+
+/* Subtitle of the button under the product card to edit a product */
+"product_card_menu.edit_button.title" = "Bearbeiten";
+
+/* Subtitle of the button under the product card to preview a product */
+"product_card_menu.preview_button.title" = "Vorschau";
+
+/* Subtitle of the button under the product card to share a product */
+"product_card_menu.share_button.title" = "Teilen";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will cancel the delete */
+"product_creation.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will delete the current product */
+"product_creation.exit_confirm.delete_title" = "Produkt löschen";
+
+/* Title of alert to confirm if the user wants to quit the product creation. */
+"product_creation.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Dadurch wird das Produkt gelöscht.";
+
+/* Title of the page where we ask the user for the name of the product he is creating. */
+"product_creation.name.title" = "👌🏼 Wie lautet der Name Ihres Produkts?";
+
+/* Title of the button which opens paypal connect view. */
+"product_creation.paypal.paypal_button.title" = "Mit {{paypal}} verbinden";
+
+/* Title of the button to skip paypal login at the end of the product creation. */
+"product_creation.paypal.skip_button.title" = "Später einrichten";
+
+/* Title of the page where the user can connect to PayPal. */
+"product_creation.paypal.title" = "💵 Verbinden Sie Ihr PayPal-Konto, um Zahlungen zu erhalten.";
+
+/* Title of the page where the user can upload his product video and pictures. */
+"product_creation.picture.title" = "📸 Laden Sie Ihre Produktvideos und Bilder hoch.";
+
+/* Title of the button which opens the asset picker. */
+"product_creation.picture.upload_button.title" = "Füge einige Medien hinzu";
+
+/* Title of the page where we ask the user for the price of the product he is creating. */
+"product_creation.price.title" = "💰 Was ist der Preis für Ihr Produkt?";
+
+/* Description on the share page after the creation explaining what to do with the link. */
+"product_creation.share.copy_description.title" = "Kopieren Sie diesen Link und fügen Sie ihn in Ihre Instagram-Bio ein.";
+
+/* Title of the button which copies the link of the shop */
+"product_creation.share.copy_link_button.title" = "Link kopieren";
+
+/* Title of the button to skip the sharing page at the end of the product creation. */
+"product_creation.share.skip_button.title" = "überspringen";
+
+/* Title of the page where the user can share his product page. */
+"product_creation.share.title" = "🎉 Ihr Shop ist online!";
+
+/* Title of the button cancel if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.delete_title" = "Ja, löschen";
+
+/* Title of alert to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.title" = "Sind Sie sicher, dass Sie dieses Medium löschen möchten?";
+
+/* Title of the view where we can review and edit a product. */
+"review_product.title" = "🔍 Überprüfen Sie Ihr Produkt";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.domain.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.domain.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the domaine name edition. */
+"shop_edition.domain.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen am Domainnamen.";
+
+/* Title of the button to save the edited domain name in the edit domaine page */
+"shop_edition.domain.save_button.title" = "Speichern";
+
+/* Title of the page where we ask the user to edit the domain name. */
+"shop_edition.domain.title" = "Legen Sie einen Domainnamen für Ihren Shop fest.";
+
+/* Title of the domain section */
+"shop_edition.domain_section.title" = "Domainname";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will cancel the dismiss */
+"shop_edition.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will lose his edits */
+"shop_edition.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the shop edition. */
+"shop_edition.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen.";
+
+/* Title of the logo section */
+"shop_edition.logo_section.title" = "Logo";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.name.exit_confirm.cancel_title" = "Abbrechen";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.name.exit_confirm.lose_edits_title" = "Änderungen verwerfen";
+
+/* Title of alert to confirm if the user wants to quit the shop name edition. */
+"shop_edition.name.exit_confirm.title" = "Sind Sie sicher, dass Sie aufhören wollen? Sie verlieren alle Ihre Änderungen am Namen.";
+
+/* Placeholdet text displayed when no shop name is set yet. */
+"shop_edition.name.placeholder" = "Legen Sie den Namen Ihres Shops fest";
+
+/* Title of the button to save the edited shop in the edit shop page */
+"shop_edition.name.save_button.title" = "Speichern";
+
+/* Title of the page where we ask the user for the name of his shop. */
+"shop_edition.name.title" = "Wie lautet der Name Ihres Shops?";
+
+/* Title of the name section */
+"shop_edition.name_section.title" = "Name";
+
+/* Placeholdet text displayed when the paypal account is not connected. */
+"shop_edition.paypal.placeholder" = "Verbinden Sie Ihr PayPal-Konto";
+
+/* Title of the paypal section */
+"shop_edition.paypal_section.title" = "PayPal-Konto";
+
+/* Title of the button to save the changes in the shop edition page */
+"shop_edition.save_button.title" = "Speichern";
+
+/* Title of the view where the user can edit the properties of his shop */
+"shop_edition.title" = "Bearbeiten Sie Ihren Shop";

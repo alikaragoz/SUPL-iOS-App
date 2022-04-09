@@ -1,0 +1,285 @@
+
+/* Title of the button in the navigation bar which dismisses the view. */
+"currency_selection.cancel_button.title" = "Annuleren";
+
+/* Title of the view where we can set the currency. */
+"currency_selection.title" = "Selecteer uw valuta";
+
+/* Placeholder when we ask the user for the name of the product he is creating. */
+"edit_name.textfield.placeholder" = "Naam?";
+
+/* Title of the button to confirm if the user wants to quit the product. This will cancel the delete */
+"edit_product.confirm_delete.cancel" = "Annuleren";
+
+/* Title of the button to confirm if the user wants to delete the product. This will delete the current product */
+"edit_product.confirm_delete.delete" = "Ja, ik weet het zeker";
+
+/* Title of alert to confirm if the user wants to delete the product. */
+"edit_product.confirm_delete.title" = "Weet u zeker dat u dit product wilt verwijderen? Deze actie is niet omkeerbaar.";
+
+/* Title of the button to cancel the exit. */
+"edit_product.description.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm the exit. */
+"edit_product.description.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the product description edition. */
+"edit_product.description.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen op de beschrijving.";
+
+/* Placeholder text on the description field on the product edition view. */
+"edit_product.description.placeholder" = "Een beschrijving toevoegen";
+
+/* Title of the button to save the edited description in the edit description page */
+"edit_product.description.save_button.title" = "Opslaan";
+
+/* Placeholder when we ask the user for the description of the product he is creating. */
+"edit_product.description.textfield.placeholder" = "Vul uw beschrijving in.....";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will cancel the delete */
+"edit_product.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will lose his edits on the product */
+"edit_product.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the product edition. */
+"edit_product.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen.";
+
+/* Title of the button in the navigation bar which presents more options. */
+"edit_product.more_button.title" = "Meer";
+
+/* Title of the button to cancel the more product action sheet. */
+"edit_product.more_options.cancel" = "Annuleren";
+
+/* Title of the button to delete a product. */
+"edit_product.more_options.delete_shop" = "Schrappen";
+
+/* Title of the button to cancel the exit. */
+"edit_product.name.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm the exit. */
+"edit_product.name.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the product name edition. */
+"edit_product.name.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen op de naam.";
+
+/* Placeholder text on the name field on the product edition view. */
+"edit_product.name.placeholder" = "Voeg de titel toe";
+
+/* Title of the button to save the edited name in the edit name page */
+"edit_product.name.save_button.title" = "Opslaan";
+
+/* Title of the page where we ask the user for the name of the product. */
+"edit_product.name.title" = "Wat is de naam van het product?";
+
+/* Label in the online row to edit the online status. */
+"edit_product.online" = "Product online";
+
+/* Title of the button to cancel the exit. */
+"edit_product.price.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm the exit. */
+"edit_product.price.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the product price edition. */
+"edit_product.price.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen op de prijs.";
+
+/* Placeholder text on the price field on the product edition view. */
+"edit_product.price.placeholder" = "Voer de prijs in";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.price.save_button.title" = "Opslaan";
+
+/* Title of the page where we ask the user for the price of the product. */
+"edit_product.price.title" = "Wat is de prijs van het product?";
+
+/* Title of the button to save the changes in the edit page */
+"edit_product.save_button.title" = "Opslaan";
+
+/* Title of the button to cancel the exit. */
+"edit_product.stock.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm the exit. */
+"edit_product.stock.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the product stock edition. */
+"edit_product.stock.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen op de voorraad.";
+
+/* Label in the stock field to edit the stock amount. */
+"edit_product.stock.label" = "Voorraad:";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.stock.save_button.title" = "Opslaan";
+
+/* Title of the page where we ask the user to edit the stock. */
+"edit_product.stock.title" = "📦 Links op voorraad";
+
+/* Title next to the switch to toggle the unlimited state of the stock */
+"edit_product.stock.unlimited_switch_label" = "Onbeperkt";
+
+/* Title of the view where we can review and edit a product. */
+"edit_product.title" = "Product bewerken";
+
+/* Title of the action to cancel. */
+"file_picker.action_sheet.picker_source.cancel.title" = "Annuleren";
+
+/* Title of the action to show the Document Picker. */
+"file_picker.action_sheet.picker_source.document_picker.title" = "Documenten";
+
+/* Title of the action to show the Photo Library. */
+"file_picker.action_sheet.picker_source.image_picker.title" = "Foto Bibliotheek";
+
+/* Title of the action to show the camera and take a picture. */
+"file_picker.action_sheet.picker_source.take_picture.title" = "Neem een foto";
+
+/* Title of the action to show the camera and take a video. */
+"file_picker.action_sheet.picker_source.take_video.title" = "Neem een video";
+
+/* Title of the button which start the product creation flow. */
+"home.empty.add_product_button.title" = "Een product toevoegen";
+
+/* Title of the label which says we don't have any products yet. */
+"home.empty.title" = "U heeft nog geen producten";
+
+/* Title of the home */
+"home.title" = "Uw winkel";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_connect.paypal_button.title" = "Maak verbinding met {{paypal}}";
+
+/* Title of the page where the user can connect to PayPal. */
+"paypal_connect.title" = "💵 Sluit uw PayPal-rekening aan om betalingen te ontvangen";
+
+/* Title of the badge indicating status of Paypal */
+"paypal_status.title" = "Sluit uw PayPal-rekening aan om betalingen te ontvangen";
+
+/* Title of the button which dismiss the webview. */
+"paypal_webview.done_button.title" = "Gedaan";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_webview.loading_title" = "👩🏼🏼 Houd vast dat we de stekker van uw PayPal-rekening inpluggen.....";
+
+/* Subtitle of the button under the product card to edit a product */
+"product_card_menu.edit_button.title" = "Bewerken";
+
+/* Subtitle of the button under the product card to preview a product */
+"product_card_menu.preview_button.title" = "Voorproefje";
+
+/* Subtitle of the button under the product card to share a product */
+"product_card_menu.share_button.title" = "Aandeel";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will cancel the delete */
+"product_creation.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will delete the current product */
+"product_creation.exit_confirm.delete_title" = "Product verwijderen";
+
+/* Title of alert to confirm if the user wants to quit the product creation. */
+"product_creation.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? Hiermee wordt het product verwijderd.";
+
+/* Title of the page where we ask the user for the name of the product he is creating. */
+"product_creation.name.title" = "👌🏼 Wat is de naam van uw product?";
+
+/* Title of the button which opens paypal connect view. */
+"product_creation.paypal.paypal_button.title" = "Maak verbinding met {{paypal}}";
+
+/* Title of the button to skip paypal login at the end of the product creation. */
+"product_creation.paypal.skip_button.title" = "Opstelling later";
+
+/* Title of the page where the user can connect to PayPal. */
+"product_creation.paypal.title" = "💵 Sluit uw PayPal-rekening aan om betalingen te ontvangen";
+
+/* Title of the page where the user can upload his product video and pictures. */
+"product_creation.picture.title" = "📸 Upload uw productvideo's en foto's";
+
+/* Title of the button which opens the asset picker. */
+"product_creation.picture.upload_button.title" = "Enkele media's toevoegen";
+
+/* Title of the page where we ask the user for the price of the product he is creating. */
+"product_creation.price.title" = "💰 Wat is de prijs van uw product?";
+
+/* Description on the share page after the creation explaining what to do with the link. */
+"product_creation.share.copy_description.title" = "Kopieer deze link en plaats hem in je Instagram bio";
+
+/* Title of the button which copies the link of the shop */
+"product_creation.share.copy_link_button.title" = "Kopieer link";
+
+/* Title of the button to skip the sharing page at the end of the product creation. */
+"product_creation.share.skip_button.title" = "overslaan";
+
+/* Title of the page where the user can share his product page. */
+"product_creation.share.title" = "🎉 Uw winkel staat online!";
+
+/* Title of the button cancel if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.delete_title" = "Ja Verwijderen";
+
+/* Title of alert to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.title" = "Weet u zeker dat u deze media wilt verwijderen?";
+
+/* Title of the view where we can review and edit a product. */
+"review_product.title" = "🔍 Beoordeel uw product";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.domain.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.domain.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the domaine name edition. */
+"shop_edition.domain.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen op de domeinnaam.";
+
+/* Title of the button to save the edited domain name in the edit domaine page */
+"shop_edition.domain.save_button.title" = "Opslaan";
+
+/* Title of the page where we ask the user to edit the domain name. */
+"shop_edition.domain.title" = "Stel een domeinnaam in voor uw Shop";
+
+/* Title of the domain section */
+"shop_edition.domain_section.title" = "Domeinnaam";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will cancel the dismiss */
+"shop_edition.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will lose his edits */
+"shop_edition.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the shop edition. */
+"shop_edition.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen.";
+
+/* Title of the logo section */
+"shop_edition.logo_section.title" = "Logo";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.name.exit_confirm.cancel_title" = "Annuleren";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.name.exit_confirm.lose_edits_title" = "Verlies randen";
+
+/* Title of alert to confirm if the user wants to quit the shop name edition. */
+"shop_edition.name.exit_confirm.title" = "Weet u zeker dat u wilt stoppen? U verliest al uw bewerkingen op de naam.";
+
+/* Placeholdet text displayed when no shop name is set yet. */
+"shop_edition.name.placeholder" = "Stel de naam van uw winkel in";
+
+/* Title of the button to save the edited shop in the edit shop page */
+"shop_edition.name.save_button.title" = "Opslaan";
+
+/* Title of the page where we ask the user for the name of his shop. */
+"shop_edition.name.title" = "Wat is de naam van uw winkel?";
+
+/* Title of the name section */
+"shop_edition.name_section.title" = "Naam";
+
+/* Placeholdet text displayed when the paypal account is not connected. */
+"shop_edition.paypal.placeholder" = "Sluit uw Paypal-account aan";
+
+/* Title of the paypal section */
+"shop_edition.paypal_section.title" = "PayPal-rekening";
+
+/* Title of the button to save the changes in the shop edition page */
+"shop_edition.save_button.title" = "Opslaan";
+
+/* Title of the view where the user can edit the properties of his shop */
+"shop_edition.title" = "Uw winkel bewerken";

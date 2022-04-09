@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Buttons'/>
+        <page name='Home'/>
+        <page name='Product Creation'/>
+        <page name='Product Edition'/>
+        <page name='Product Creation Paypal'/>
+        <page name='Product Creation Save'/>
+        <page name='Product Creation Share'/>
+        <page name='Sandbox'/>
+        <page name='Product Edition Stock'/>
+    </pages>
+</playground>

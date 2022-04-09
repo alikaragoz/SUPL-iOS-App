@@ -1,0 +1,285 @@
+
+/* Title of the button in the navigation bar which dismisses the view. */
+"currency_selection.cancel_button.title" = "Cancel";
+
+/* Title of the view where we can set the currency. */
+"currency_selection.title" = "Select your currency";
+
+/* Placeholder when we ask the user for the name of the product he is creating. */
+"edit_name.textfield.placeholder" = "Name?";
+
+/* Title of the button to confirm if the user wants to quit the product. This will cancel the delete */
+"edit_product.confirm_delete.cancel" = "Cancel";
+
+/* Title of the button to confirm if the user wants to delete the product. This will delete the current product */
+"edit_product.confirm_delete.delete" = "Yes I'm sure";
+
+/* Title of alert to confirm if the user wants to delete the product. */
+"edit_product.confirm_delete.title" = "Are you sure you want to delete this product? This action is not reversible.";
+
+/* Title of the button to cancel the exit. */
+"edit_product.description.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm the exit. */
+"edit_product.description.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the product description edition. */
+"edit_product.description.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits on the description.";
+
+/* Placeholder text on the description field on the product edition view. */
+"edit_product.description.placeholder" = "Add a description";
+
+/* Title of the button to save the edited description in the edit description page */
+"edit_product.description.save_button.title" = "Save";
+
+/* Placeholder when we ask the user for the description of the product he is creating. */
+"edit_product.description.textfield.placeholder" = "Enter your description...";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will cancel the delete */
+"edit_product.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm if the user wants to quit the product edition. This will lose his edits on the product */
+"edit_product.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the product edition. */
+"edit_product.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits.";
+
+/* Title of the button in the navigation bar which presents more options. */
+"edit_product.more_button.title" = "More";
+
+/* Title of the button to cancel the more product action sheet. */
+"edit_product.more_options.cancel" = "Cancel";
+
+/* Title of the button to delete a product. */
+"edit_product.more_options.delete_shop" = "Delete";
+
+/* Title of the button to cancel the exit. */
+"edit_product.name.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm the exit. */
+"edit_product.name.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the product name edition. */
+"edit_product.name.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits on the name.";
+
+/* Placeholder text on the name field on the product edition view. */
+"edit_product.name.placeholder" = "Add the title";
+
+/* Title of the button to save the edited name in the edit name page */
+"edit_product.name.save_button.title" = "Save";
+
+/* Title of the page where we ask the user for the name of the product. */
+"edit_product.name.title" = "What's the name of the product?";
+
+/* Label in the online row to edit the online status. */
+"edit_product.online" = "Product Online";
+
+/* Title of the button to cancel the exit. */
+"edit_product.price.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm the exit. */
+"edit_product.price.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the product price edition. */
+"edit_product.price.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits on the price.";
+
+/* Placeholder text on the price field on the product edition view. */
+"edit_product.price.placeholder" = "Enter the price";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.price.save_button.title" = "Save";
+
+/* Title of the page where we ask the user for the price of the product. */
+"edit_product.price.title" = "What's the price of the product?";
+
+/* Title of the button to save the changes in the edit page */
+"edit_product.save_button.title" = "Save";
+
+/* Title of the button to cancel the exit. */
+"edit_product.stock.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm the exit. */
+"edit_product.stock.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the product stock edition. */
+"edit_product.stock.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits on the stock.";
+
+/* Label in the stock field to edit the stock amount. */
+"edit_product.stock.label" = "Stock:";
+
+/* Title of the button to save the edited price in the edit price page */
+"edit_product.stock.save_button.title" = "Save";
+
+/* Title of the page where we ask the user to edit the stock. */
+"edit_product.stock.title" = "📦 Left in Stock";
+
+/* Title next to the switch to toggle the unlimited state of the stock */
+"edit_product.stock.unlimited_switch_label" = "Unlimited";
+
+/* Title of the view where we can review and edit a product. */
+"edit_product.title" = "Edit product";
+
+/* Title of the action to cancel. */
+"file_picker.action_sheet.picker_source.cancel.title" = "Cancel";
+
+/* Title of the action to show the Document Picker. */
+"file_picker.action_sheet.picker_source.document_picker.title" = "Documents";
+
+/* Title of the action to show the Photo Library. */
+"file_picker.action_sheet.picker_source.image_picker.title" = "Photo Library";
+
+/* Title of the action to show the camera and take a picture. */
+"file_picker.action_sheet.picker_source.take_picture.title" = "Take a picture";
+
+/* Title of the action to show the camera and take a video. */
+"file_picker.action_sheet.picker_source.take_video.title" = "Take a video";
+
+/* Title of the button which start the product creation flow. */
+"home.empty.add_product_button.title" = "Add a product";
+
+/* Title of the label which says we don't have any products yet. */
+"home.empty.title" = "You don't have any products yet";
+
+/* Title of the home */
+"home.title" = "Your Shop";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_connect.paypal_button.title" = "Connect with {{paypal}}";
+
+/* Title of the page where the user can connect to PayPal. */
+"paypal_connect.title" = "💵 Connect your PayPal account to start getting payments";
+
+/* Title of the badge indicating status of Paypal */
+"paypal_status.title" = "Connect your PayPal account to start getting payments";
+
+/* Title of the button which dismiss the webview. */
+"paypal_webview.done_button.title" = "Done";
+
+/* Title of the button which opens paypal connect view. */
+"paypal_webview.loading_title" = "👩🏼‍🚀 Hold on we are plugging to your PayPal account...";
+
+/* Subtitle of the button under the product card to edit a product */
+"product_card_menu.edit_button.title" = "Edit";
+
+/* Subtitle of the button under the product card to preview a product */
+"product_card_menu.preview_button.title" = "Preview";
+
+/* Subtitle of the button under the product card to share a product */
+"product_card_menu.share_button.title" = "Share";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will cancel the delete */
+"product_creation.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm if the user wants to quit the product creation. This will delete the current product */
+"product_creation.exit_confirm.delete_title" = "Delete Product";
+
+/* Title of alert to confirm if the user wants to quit the product creation. */
+"product_creation.exit_confirm.title" = "Are you sure you want to quit? This will delete the product.";
+
+/* Title of the page where we ask the user for the name of the product he is creating. */
+"product_creation.name.title" = "👌🏼 What is the name of your product?";
+
+/* Title of the button which opens paypal connect view. */
+"product_creation.paypal.paypal_button.title" = "Connect with {{paypal}}";
+
+/* Title of the button to skip paypal login at the end of the product creation. */
+"product_creation.paypal.skip_button.title" = "Setup later";
+
+/* Title of the page where the user can connect to PayPal. */
+"product_creation.paypal.title" = "💵 Connect your PayPal account to start getting payments";
+
+/* Title of the page where the user can upload his product video and pictures. */
+"product_creation.picture.title" = "📸 Upload your product videos and pictures";
+
+/* Title of the button which opens the asset picker. */
+"product_creation.picture.upload_button.title" = "Add some medias";
+
+/* Title of the page where we ask the user for the price of the product he is creating. */
+"product_creation.price.title" = "💰 What is the price of your product?";
+
+/* Description on the share page after the creation explaining what to do with the link. */
+"product_creation.share.copy_description.title" = "Copy this link and put it in your Instagram bio";
+
+/* Title of the button which copies the link of the shop */
+"product_creation.share.copy_link_button.title" = "Copy Link";
+
+/* Title of the button to skip the sharing page at the end of the product creation. */
+"product_creation.share.skip_button.title" = "skip";
+
+/* Title of the page where the user can share his product page. */
+"product_creation.share.title" = "🎉 Your store is online!";
+
+/* Title of the button cancel if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.delete_title" = "Yes Delete";
+
+/* Title of alert to confirm if the user wants to delete a media from the product. */
+"product_edition.picture.delete_confirm.title" = "Are you sure you want to delete this media?";
+
+/* Title of the view where we can review and edit a product. */
+"review_product.title" = "🔍 Review your product";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.domain.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.domain.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the domaine name edition. */
+"shop_edition.domain.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits on the domain name.";
+
+/* Title of the button to save the edited domain name in the edit domaine page */
+"shop_edition.domain.save_button.title" = "Save";
+
+/* Title of the page where we ask the user to edit the domain name. */
+"shop_edition.domain.title" = "Set a domain name for your Shop";
+
+/* Title of the domain section */
+"shop_edition.domain_section.title" = "Domain name";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will cancel the dismiss */
+"shop_edition.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm if the user wants to quit the shop edition. This will lose his edits */
+"shop_edition.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the shop edition. */
+"shop_edition.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits.";
+
+/* Title of the logo section */
+"shop_edition.logo_section.title" = "Logo";
+
+/* Title of the button to cancel the exit. */
+"shop_edition.name.exit_confirm.cancel_title" = "Cancel";
+
+/* Title of the button to confirm the exit. */
+"shop_edition.name.exit_confirm.lose_edits_title" = "Lose Edits";
+
+/* Title of alert to confirm if the user wants to quit the shop name edition. */
+"shop_edition.name.exit_confirm.title" = "Are you sure you want to quit? You will lose all your edits on the name.";
+
+/* Placeholdet text displayed when no shop name is set yet. */
+"shop_edition.name.placeholder" = "Set your shop's name";
+
+/* Title of the button to save the edited shop in the edit shop page */
+"shop_edition.name.save_button.title" = "Save";
+
+/* Title of the page where we ask the user for the name of his shop. */
+"shop_edition.name.title" = "What is the name of your Shop?";
+
+/* Title of the name section */
+"shop_edition.name_section.title" = "Name";
+
+/* Placeholdet text displayed when the paypal account is not connected. */
+"shop_edition.paypal.placeholder" = "Connect your Paypal account";
+
+/* Title of the paypal section */
+"shop_edition.paypal_section.title" = "PayPal account";
+
+/* Title of the button to save the changes in the shop edition page */
+"shop_edition.save_button.title" = "Save";
+
+/* Title of the view where the user can edit the properties of his shop */
+"shop_edition.title" = "Edit your shop";
